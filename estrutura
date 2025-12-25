@@ -1,0 +1,11 @@
+uti-board-360/
+├── 📁 backend/          # FastAPI + SQLAlchemy + SQLite
+├── 📁 frontend/         # React + TypeScript + Tailwind
+├── 📁 src/             # Código fonte do frontend
+├── 📁 .github/         # Workflows do GitHub Actions
+├── 📄 README.md        # Documentação principal
+├── 📄 CONTRIBUTING.md  # Guia de contribuição
+├── 📄 GITHUB_SETUP.md  # Instruções de setup
+├── 📄 LICENSE          # Licença MIT
+├── 📄 docker-compose.yml # Orquestração de serviços
+└── 📄 test-system.sh   # Script de teste do sistema
